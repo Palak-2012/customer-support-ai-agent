@@ -1,16 +1,16 @@
-# 🤖 Customer Support AI Agent
+#  Customer Support AI Agent
 
 An automated customer support system that processes incoming emails, generates AI-based responses, and intelligently decides whether to reply automatically or escalate to human support.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project uses **automation workflows + AI decision-making** to handle customer queries efficiently. Incoming emails are processed, analyzed, and responded to based on a scoring mechanism that evaluates the quality of generated responses.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Zapier** – Workflow automation
 * **Gmail** – Source of customer queries
@@ -19,7 +19,7 @@ This project uses **automation workflows + AI decision-making** to handle custom
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **Incoming Email Trigger**
 
@@ -43,12 +43,12 @@ This project uses **automation workflows + AI decision-making** to handle custom
 
 5. **Decision System**
 
-   * ✅ If score ≥ 7 → Auto-draft & send email reply
-   * ⚠️ If score < 7 → Notify customer support team
+   *  If score ≥ 7 → Auto-draft & send email reply
+   *  If score < 7 → Notify customer support team
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 * Automated email-based customer support
 * AI-powered response generation
@@ -58,7 +58,7 @@ This project uses **automation workflows + AI decision-making** to handle custom
 
 ---
 
-## 📈 Impact
+##  Impact
 
 * Reduced manual effort in handling repetitive queries
 * Improved response time from manual delays to near real-time
@@ -66,7 +66,7 @@ This project uses **automation workflows + AI decision-making** to handle custom
 
 ---
 
-## 📂 Workflow Architecture
+##  Workflow Architecture
 
 ```
 Gmail → Zapier Trigger → Rule-Based Processing → OpenAI API  
@@ -76,7 +76,7 @@ Gmail → Zapier Trigger → Rule-Based Processing → OpenAI API
 
 ---
 
-## 🔧 Setup Instructions (Basic)
+##  Setup Instructions (Basic)
 
 1. Create a Zap in **Zapier**
 2. Connect your **Gmail account**
@@ -90,7 +90,7 @@ Gmail → Zapier Trigger → Rule-Based Processing → OpenAI API
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add sentiment analysis for better query understanding
 * Integrate chatbot interface (web or WhatsApp)
@@ -99,13 +99,13 @@ Gmail → Zapier Trigger → Rule-Based Processing → OpenAI API
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork this repo and improve the workflow or add new features!
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For any queries or collaboration, feel free to connect.
 
