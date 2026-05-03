@@ -19,6 +19,12 @@ This project uses **automation workflows + AI decision-making** to handle custom
 
 ---
 
+## 📊 Workflow Diagram
+
+![Customer Support AI Workflow](Workflow.png)
+
+---
+
 ##  How It Works
 
 1. **Incoming Email Trigger**
