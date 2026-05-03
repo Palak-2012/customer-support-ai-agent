@@ -66,15 +66,6 @@ This project uses **automation workflows + AI decision-making** to handle custom
 
 ---
 
-##  Workflow Architecture
-
-```
-Gmail → Zapier Trigger → Rule-Based Processing → OpenAI API  
-       → Scoring System → Decision Logic  
-          → (Auto Reply) OR (Escalation to Support Team)
-```
-
----
 
 ##  Setup Instructions (Basic)
 
